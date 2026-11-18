@@ -66,13 +66,9 @@ Frontend (`frontend/.env`):
 5. Iniciar sesión como cliente, agregar productos, finalizar checkout y consultar `/mis-pedidos`.
 6. Volver a admin y avanzar/cancelar pedidos. Al cancelar, verificar restitución de stock.
 
-## Entrega
-- Completar en este README la URL pública del repositorio GitHub.
-- Completar el enlace público del video de demostración (10–15 minutos).
-- Generar ZIP sin `.env`, `.venv`, `node_modules`, `dist` ni archivos de base local.
+Link del video: (https://www.youtube.com/watch?v=3wWLKFly70c)
 
-Repositorio: `PENDIENTE: agregar URL pública de GitHub`  
-Video: `PENDIENTE: agregar enlace público del video`
+Link del Repositorio: (https://github.com/Eric381omega/Trabajo-Practico-Integrador-Programaci-n-4---Eric-Suarez-Dubs)
 
 ## Nota de desarrollo
 El proyecto implementa las reglas funcionales del enunciado. Antes de entregar, ejecutar los comandos de verificación de ambas partes y realizar una prueba integral con PostgreSQL, además de revisar los detalles de la rúbrica y completar los enlaces de entrega.
